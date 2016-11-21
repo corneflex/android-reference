@@ -55,6 +55,8 @@ Android references
 - [Handle RecyclerView Clicks](http://www.littlerobots.nl/blog/Handle-Android-RecyclerView-Clicks/)
 - [DataBinding](http://www.androidgig.com/recyclerview-with-android-databinding/#.V9VftxpKjzA.twitter)
 - [Using DiffUtil](https://medium.com/@nullthemall/diffutil-is-a-must-797502bc1149#.1c5i8rhga)
+- [RecyclerView inside RecyclerView](https://github.com/google/iosched/blob/master/android/src/main/java/com/google/samples/apps/iosched/explore/ExploreIOFragment.java#L299)[ 2](https://github.com/google/iosched/blob/master/android/src/main/java/com/google/samples/apps/iosched/explore/SessionsAdapter.java
+)
 
 ###CoordinatorLayout
 - [Custom Behaviour](https://medium.com/google-developers/intercepting-everything-with-coordinatorlayout-behaviors-8c6adc140c26#.9u0oot5rr)
