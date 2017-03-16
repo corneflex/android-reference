@@ -78,6 +78,7 @@ Android references
 - [7 tips RxJava](http://futurice.com/blog/top-7-tips-for-rxjava-on-android)
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - Reactive Programming with RxJava (ebook)
+- [Retry when server Error](http://kevinmarlow.me/better-networking-with-rxjava-and-retrofit-on-android/)
 
 ##Network
 -----------
