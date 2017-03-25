@@ -71,6 +71,8 @@ Android references
   
 ##Asynchronous
 ------------
+- [OkHttp cache](http://www.schibsted.pl/blog/hood-okhttps-cache/)
+- [RxJava Cache Tips](http://blog.danlew.net/2015/06/22/loading-data-from-multiple-sources-with-rxjava/)
 - [RxJava (CodePath)](http://guides.codepath.com/android/RxJava)
 - [RxJava - Start](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
 - [RxJava - Multiple Subscribers same data](https://medium.com/@p.tournaris/rxjava-one-observable-multiple-subscribers-7bf497646675#.3amjmsc7g)
